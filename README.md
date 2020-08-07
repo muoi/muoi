@@ -2,6 +2,10 @@
 
 Oh swish 🐟🐟🐟
 
+* https://tuandinh.com
+* https://almostuseful.io
+
+
 <!--
 **muoi/muoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
