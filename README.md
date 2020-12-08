@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<br>
-	<a href="https://github.com/muoi/muoi/wow.svg">
-		<img src="header.svg" width="800" height="400">
-	</a>
+		<img src="wow.svg" width="800" height="400">
 	<br>
 </div>
